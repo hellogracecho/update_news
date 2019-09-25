@@ -1,0 +1,20 @@
+/* Child Component Style */
+/* About */
+.about-body {
+  margin-top: 40px;
+}
+.about-body h2 {
+  color: #679cff;
+  margin: 20px 0;
+}
+.about-body p {
+  margin: 10px 0;
+}
+.about-body a {
+  color: #38bf57;
+}
+.about-body a:hover,
+.about-body a:focus,
+.about-body a:active {
+  color: #679cff;
+}
